@@ -1,0 +1,2 @@
+Namespace(adverserial_training=False, batch_size=128, dataset='cifar10', dropout=0.1, learning_rate=0.001, loss='cross_entropy', model='cait', momentum=0.9, num_epochs=500, optimizer='adamw', save_file='model', scheduler='exponentiallr', seed=77, weight_decay=0.0001)
+Time: 2023_12_13_09_21_45

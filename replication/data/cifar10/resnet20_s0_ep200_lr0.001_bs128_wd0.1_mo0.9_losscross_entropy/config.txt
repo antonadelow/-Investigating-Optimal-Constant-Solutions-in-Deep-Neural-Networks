@@ -1,0 +1,2 @@
+Namespace(adverserial_training=False, batch_size=128, dataset='cifar10', learning_rate=0.001, loss='cross_entropy', model='resnet20', momentum=0.9, num_epochs=200, optimizer='SGD', save_file='model', scheduler='multistep', seed=0, weight_decay=0.1)
+Time: 2023_12_07_20_05_37

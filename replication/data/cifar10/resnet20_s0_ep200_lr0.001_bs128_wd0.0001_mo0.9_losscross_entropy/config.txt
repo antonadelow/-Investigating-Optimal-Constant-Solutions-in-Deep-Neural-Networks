@@ -1,0 +1,2 @@
+Namespace(dataset='cifar10', model='resnet20', seed=0, learning_rate=0.001, optimizer='SGD', batch_size=128, num_epochs=200, weight_decay=0.0001, momentum=0.9, loss='cross_entropy', save_file='model')
+Time: _2023_11_10_19_21_30

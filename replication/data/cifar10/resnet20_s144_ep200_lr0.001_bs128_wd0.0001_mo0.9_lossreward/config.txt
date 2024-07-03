@@ -1,0 +1,2 @@
+Namespace(batch_size=128, dataset='cifar10', learning_rate=0.001, loss='reward', model='resnet20', momentum=0.9, num_epochs=200, optimizer='SGD', save_file='model', seed=144, weight_decay=0.0001)
+Time: 2023_12_03_18_33_05
